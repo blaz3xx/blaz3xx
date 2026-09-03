@@ -86,7 +86,7 @@ A day-ahead wildfire risk forecasting system for the Ukrainian Polissya forest b
 
 `Python` `TensorFlow` `scikit-learn` `CatBoost` `GeoPandas` `NASA FIRMS` `Open-Meteo`
 
-#### 📱 Roley — job matching mobile app
+#### 📱 [Roley — job matching mobile app](https://github.com/blaz3xx/roley)
 
 A recruitment platform built around a swipe-and-match model, letting candidates evaluate opportunities and companies find fits quickly.
 
